@@ -55,4 +55,4 @@ Momo Land 的玩家说明。这里介绍服务器里的常用指令、商店和�
 
 > [!NOTE]
 > 本说明按 NekoCore **1.4.4** 编写。奖励、价格和冷却列的是插件默认值；服内有调整时，以游戏界面和服主说明为准。
-
+> NekoCore 公版仓库地址：**https://github.com/hasaki0612-lab/NekoCore**
