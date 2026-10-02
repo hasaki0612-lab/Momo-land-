@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Momo Land 的每世界 Home</title>
+  <desc id="desc">生存一区 world 和生存二区 world_new 各保存一个 Home。菜单去公共出生点，带世界参数的 home 指令去对应的个人据点。</desc>
+  <rect width="1000" height="430" rx="20" fill="#f3f8fc"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" text-anchor="middle">
+    <text x="500" y="50" fill="#315269" font-size="25" font-weight="600">两个世界，各自保存 Home</text>
+    <rect x="45" y="85" width="435" height="265" rx="16" fill="#fff" stroke="#c9dce9" stroke-width="2"/>
+    <rect x="520" y="85" width="435" height="265" rx="16" fill="#fff" stroke="#c9dce9" stroke-width="2"/>
+    <text x="262" y="125" fill="#315269" font-size="24">生存一区 · world</text>
+    <text x="737" y="125" fill="#315269" font-size="24">生存二区 · world_new</text>
+    <text x="262" y="174" fill="#637d90" font-size="20">/menu 生存一区 → 公共出生点</text>
+    <text x="737" y="174" fill="#637d90" font-size="20">/menu 生存二区 → 公共出生点</text>
+    <rect x="80" y="202" width="365" height="108" rx="12" fill="#e7f4fc"/>
+    <rect x="555" y="202" width="365" height="108" rx="12" fill="#e7f4fc"/>
+    <text x="262" y="242" fill="#315269" font-size="20">在这里睡床 / 使用 /sethome</text>
+    <text x="737" y="242" fill="#315269" font-size="20">在这里睡床 / 使用 /sethome</text>
+    <text x="262" y="281" fill="#315269" font-size="22">/home world → 自己的家</text>
+    <text x="737" y="281" fill="#315269" font-size="22">/home world_new → 自己的家</text>
+    <text x="500" y="393" fill="#637d90" font-size="19">更新一区的 Home，不会覆盖二区的 Home</text>
+  </g>
+</svg>

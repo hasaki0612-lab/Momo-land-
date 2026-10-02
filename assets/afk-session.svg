@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">挂机会话与离水宽限</title>
+  <desc id="desc">进入 lobby 水中立即计时，离水开始两秒宽限，两秒内返回继续原会话，满两秒未返回则结束本次会话。</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8Z" fill="#739bb6"/></marker></defs>
+  <rect width="1000" height="430" rx="20" fill="#f3f8fc"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif" text-anchor="middle">
+    <text x="500" y="50" fill="#315269" font-size="25" font-weight="600">入水计时，离水两秒结束</text>
+    <rect x="40" y="105" width="260" height="105" rx="14" fill="#e7f4fc" stroke="#c9dce9" stroke-width="2"/>
+    <rect x="370" y="105" width="260" height="105" rx="14" fill="#fff5d9" stroke="#e4d6ab" stroke-width="2"/>
+    <rect x="700" y="105" width="260" height="105" rx="14" fill="#fff" stroke="#c9dce9" stroke-width="2"/>
+    <text x="170" y="145" fill="#315269" font-size="23">在 lobby 水中</text>
+    <text x="170" y="181" fill="#637d90" font-size="19">立即开始本次挂机</text>
+    <text x="500" y="145" fill="#315269" font-size="23">离开水中</text>
+    <text x="500" y="181" fill="#637d90" font-size="19">保留会话 · 2 秒宽限</text>
+    <text x="830" y="145" fill="#315269" font-size="23">满 2 秒未返回</text>
+    <text x="830" y="181" fill="#637d90" font-size="19">结束 · 下次重新计时</text>
+    <path d="M305 158 H362" fill="none" stroke="#739bb6" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M635 158 H692" fill="none" stroke="#739bb6" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <path d="M500 220 V295 H170 V220" fill="none" stroke="#739bb6" stroke-width="2.5" marker-end="url(#arrow)"/>
+    <rect x="210" y="274" width="248" height="42" rx="8" fill="#f3f8fc"/>
+    <text x="334" y="302" fill="#315269" font-size="19">2 秒内回水，继续倒计时</text>
+    <text x="500" y="388" fill="#637d90" font-size="19">界面示意，不是游戏截图；奖励默认每 60 秒结算</text>
+  </g>
+</svg>

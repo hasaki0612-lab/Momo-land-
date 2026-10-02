@@ -45,7 +45,9 @@ Momo Land 的玩家说明。这里介绍服务器里的常用指令、商店和�
 
 ---
 
-## 反馈与支持
+## 社群与联系
+
+一起聊聊、分享建筑：[加入 Discord](https://discord.gg/RfDVARQt5) · QQ 交流群：**790754858**
 
 服务器问题和玩家报告：**[hasaki.0612@outlook.com](mailto:hasaki.0612@outlook.com)**
 
