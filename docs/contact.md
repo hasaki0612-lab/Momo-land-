@@ -1,5 +1,7 @@
 # 问题反馈与投喂
 
+服务器线路：**mc.konizaza.co.uk**
+
 ## 玩家社群
 
 - Discord：[加入 Momo Land 社群](https://discord.gg/RfDVARQt5)
