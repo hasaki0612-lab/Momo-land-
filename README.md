@@ -42,20 +42,23 @@ Momo Land 的玩家说明。这里介绍服务器里的常用指令、商店和�
 - [TAB、聊天与隐私](docs/privacy.md)
 - [常见问题](docs/faq.md)
 - [问题反馈与投喂](docs/contact.md)
-- [1.5.0 更新说明](docs/updates.md)
+- [1.5.1 更新说明](docs/updates.md)
 
 ---
 
 ## 社群与联系
 
-服务器线路：**mc.konizaza.co.uk**
+一起聊聊、分享建筑：
 
-一起聊聊、分享建筑：[加入 Discord](https://discord.gg/RfDVARQt5) · QQ 交流群：**790754858**
+- Discord：[https://discord.gg/RfDVARQt5](https://discord.gg/RfDVARQt5)
+- QQ 交流群：790754858
+
+进服公告中的官方文档入口显示为 [\[点击查看喵~\]](https://github.com/hasaki0612-lab/Momo-land-/)，点击即可打开这份玩家说明。
 
 服务器问题和玩家报告：**[hasaki.0612@outlook.com](mailto:hasaki.0612@outlook.com)**
 
-自愿投喂：**[爱发电](https://ifdian.net/a/neko_0612)**
+自愿投喂：[https://ifdian.net/a/neko_0612](https://ifdian.net/a/neko_0612)
 
 > [!NOTE]
-> 本说明按 NekoCore **1.5.0** 编写。奖励、价格和冷却列的是插件默认值；服内有调整时，以游戏界面和服主说明为准。
-> 本次说明对应 Momo Land 私服版本。
+> 本说明按 NekoCore **1.5.1** 编写。奖励、价格和冷却列的是插件默认值；服内有调整时，以游戏界面和服主说明为准。
+> 本次说明对应 Momo Land 私服 1.5.1 更新包。1.5.0 已上线；1.5.1 尚未部署，启用时间以服主公告为准。
