@@ -1,13 +1,13 @@
 # 问题反馈与投喂
 
-服务器线路：**mc.konizaza.co.uk**
-
 ## 玩家社群
 
-- Discord：[加入 Momo Land 社群](https://discord.gg/RfDVARQt5)
-- QQ 交流群：**790754858**
+- Discord：[https://discord.gg/RfDVARQt5](https://discord.gg/RfDVARQt5)
+- QQ 交流群：790754858
 
 平时聊天、晒建筑，或者找人一起玩，都可以来这里。
+
+进服公告的“社群与帮助”区也能找到这些信息。官方文档显示为 [\[点击查看喵~\]](https://github.com/hasaki0612-lab/Momo-land-/)，点击就能查看玩家说明；Discord 保留完整网址，可以直接点击加入。
 
 ---
 
@@ -32,9 +32,11 @@
 
 ## 自愿投喂
 
-**[https://ifdian.net/a/neko_0612](https://ifdian.net/a/neko_0612)**
+[https://ifdian.net/a/neko_0612](https://ifdian.net/a/neko_0612)
 
 喜欢 Momo Land 的话，可以给服主投喂一点。谢谢支持喵。
+
+进服公告把投喂链接放在独立的“支持 Momo Land”区，保留完整网址，点击即可前往。
 
 投喂是自愿的；这里没有承诺投喂换金币、头衔或物品。游戏内头衔的购买方式见 [Yuki / Momo / Neko](titles.md)。
 
